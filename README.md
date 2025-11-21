@@ -71,9 +71,8 @@ You can view the live application here:
 4.  **CorsProxy / AllOrigins**:
       * *Purpose*: Middleware used to bypass browser CORS security restrictions for external APIs.
 
------
+ 
 
 *Developed by: Madel Sison*
 
-```
-```
+ 
